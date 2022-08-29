@@ -1,5 +1,5 @@
 # MySnake
-A Simple Snake Game with some more features
+A Simple Snake Game with some more features developed with C# and WinForms.
  
 Instructions:
 
